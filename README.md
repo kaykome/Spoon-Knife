@@ -10,4 +10,6 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 I am a medical doctor
 I have interest in reaserch
 i am currently pursuing a masters in biostatistics.
+I see you cannot create a new file on an upstream repository.
+
 
